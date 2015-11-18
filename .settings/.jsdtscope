@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="resources/scripts/bootstrap-3.1.1.min.js|resources/scripts/cbpViewModeSwitch.js|resources/scripts/classie.js|resources/scripts/imagezoom.js|resources/scripts/jquery-1.5.2.min.js|resources/scripts/jquery.equalHeight.js|resources/scripts/jquery.flexisel.js|resources/scripts/jquery.flexslider.js|resources/scripts/jquery.min.js|resources/scripts/jquery.tablesorter.min.js|resources/scripts/responsive-tabs.js|resources/scripts/responsiveslides.min.js|resources/scripts/simpleCart.min.js" kind="src" path="WebContent"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.WebProject">
+		<attributes>
+			<attribute name="hide" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.USER_LIBRARY/js"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
